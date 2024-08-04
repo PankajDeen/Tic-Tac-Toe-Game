@@ -4,5 +4,7 @@ I’m excited to showcase my Tic-Tac-Toe game built with HTML, CSS, and JavaScri
 🔹 Key Features:
 
 Interactive Gameplay: Easy-to-use interface with real-time updates.
+
 Responsive Design: Optimized for seamless play on any device.
+
 Classic Fun: Enjoy the timeless challenge of Tic-Tac-Toe anytime, anywhere.
